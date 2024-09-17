@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vladivostok low planet
+* source:	https://sketchfab.com/3d-models/vladivostok-low-planet-ae498b827b8044fe927e534e7855d653
+* author:	stveega228 (https://sketchfab.com/stveega228)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vladivostok low planet" (https://sketchfab.com/3d-models/vladivostok-low-planet-ae498b827b8044fe927e534e7855d653) by stveega228 (https://sketchfab.com/stveega228) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
